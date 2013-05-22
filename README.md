@@ -1,2 +1,4 @@
-rubymotion_part1
-================
+RubyMotion Introduction
+=======================
+
+Support code for Synbioz blog post about RubyMotion
